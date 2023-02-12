@@ -173,28 +173,28 @@
     "@babel/runtime" "^7.13.10"
     "@radix-ui/react-compose-refs" "1.0.0"
 
-"@react-email/button@^0.0.6":
+"@react-email/button@0.0.6":
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.6.tgz#3f0b84b03d2253a3a4204312755b65004c021afc"
   integrity sha512-h0QVT6tZq5sDWbkEUj29VUk18aGzJPZDeeKz0fPJVHpyAgKyVePYrRdQVzIAwLiwzZL8xfZ9yB6jyA1aPgZIoA==
   dependencies:
     react "18.2.0"
 
-"@react-email/container@^0.0.6":
+"@react-email/container@0.0.6":
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.6.tgz#b352850d6933f53b2c79d18b11dd30f19f8ee50b"
   integrity sha512-5MCej5JQibS7FIY1zIdpO3T5dAZttaZDe9SdcqbNUlQLX0mIyvxMCc92kS553p0o198sTyHZ9zhwA8ULMEhh+Q==
   dependencies:
     react "18.2.0"
 
-"@react-email/head@^0.0.4":
+"@react-email/head@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/head/-/head-0.0.4.tgz#59595a401ac22b34df6e85db8d882861b069119e"
   integrity sha512-hTvxNtTFCOyt3zdG62G3AkKO1Vm8ZhN0XIUv0iSdYachvzYvW10FNHwTqzXbXor4Bvz1GRKF+FyIYVD6AnaHog==
   dependencies:
     react "18.2.0"
 
-"@react-email/heading@^0.0.7":
+"@react-email/heading@0.0.7":
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/@react-email/heading/-/heading-0.0.7.tgz#926db5af4556dc564e9a0fde40743ad150f3c1fd"
   integrity sha512-PBcAyFSixi+eMm6tjiULRvnLDMOoCtaRIk/EVyUtFKY50eMKQwznRfKMjFJ6Ihl1hceCxh6m+nOcOExWycAivw==
@@ -203,33 +203,33 @@
     react "18.2.0"
     utils "*"
 
-"@react-email/hr@^0.0.4":
+"@react-email/hr@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/hr/-/hr-0.0.4.tgz#f346b00f1c7ba9c22064635e2b1645c721837e27"
   integrity sha512-TLx68FxSvtbet2XlHqlEaT/NMSwCXvqLJY7/+4Mz0p3eefkYKdkJ+aDfSus5l1y3g89Igbue7LJ881v/Krpshw==
   dependencies:
     react "18.2.0"
 
-"@react-email/html@^0.0.4":
+"@react-email/html@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.4.tgz#3de13cad8c1f4c487227b3f8fd79e790d239d8c0"
   integrity sha512-7tRYSnudYAWez+NkPWOM8yLZH7EuYFtYdiLPnzpD+pf4cdk16Gz4up531DaIX6dNBbfbyEFpQxhXZxGeJ5ZkfQ==
 
-"@react-email/img@^0.0.4":
+"@react-email/img@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.4.tgz#1500e5c5b1d00cbb99c8ceac6566e34dad5a8817"
   integrity sha512-ILiCdm/rBqUzpptFr180wWohrFtKL3EsvUnjH61GDfOMgJWhdE7G9JOW/GqmL3nw++cnwC54dkEYXUjUpf8gpQ==
   dependencies:
     react "18.2.0"
 
-"@react-email/link@^0.0.4":
+"@react-email/link@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.4.tgz#46f209a010f097082dd96e71645ae5ea017a1e06"
   integrity sha512-4m3PmGsfAUn6/4PmbpW0JkcrIalFkQjWp5SS4w17NQ4FyDmwoojppdYVu7WhUpLj81vL1MkOpAYBojGwv7s8Qg==
   dependencies:
     react "18.2.0"
 
-"@react-email/preview@^0.0.5":
+"@react-email/preview@0.0.5":
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.5.tgz#17937c9ef738dc9cc1501c5706846652924213d4"
   integrity sha512-3OwWQvuxqi8MdJ1PZHH6XLrG9N8Z3uAN9cVWOlqb4WuhR1KwTVPgZwSy/zuzTiuhhejpO8/ctC7tMfZSpXdThg==
@@ -246,14 +246,14 @@
     react "18.2.0"
     react-dom "18.2.0"
 
-"@react-email/section@^0.0.1":
+"@react-email/section@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.1.tgz#5e12161fbb77a1b746caf4f35aab5905977c8474"
   integrity sha512-Pb2HcGNhTOtFRJVB+Kq2vTUnd8M+LuZBuHfpUD16ua/m2/mbW5WeXAfSuJ2Tl6qspzvDKLHqVX+o6HBc1qgl2Q==
   dependencies:
     react "18.2.0"
 
-"@react-email/text@^0.0.4":
+"@react-email/text@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.0.4.tgz#097b725fbd834de90f0f993fd4ddbd716a53fe29"
   integrity sha512-U99QEmgmlfs3TijP/761+pogEX4AIF/6qyFRlfJQuSLOmFbRzuSUG9dLeNIO4W4yMQTcqVjKggHc4sgPxPy1OQ==
@@ -1944,7 +1944,7 @@ react-dom@18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-email@^1.7.10:
+react-email@1.7.11:
   version "1.7.11"
   resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.7.11.tgz#234b46e8700148d01f76706cd60680cc3e65cdcd"
   integrity sha512-OyRUX3xPakgE1yhicipLSOAha2FlDkyonsaxtxgDE0KrLQfyacKd5PNZgPVIkngYEt5fAKVKuv0US15zw74TpQ==
