@@ -16,13 +16,15 @@ yarn
 
 Then, run the development server:
 
+_This will might take a while on the 1st run as it's installing nextjs on development mode._
+
 ```sh
 npm run dev
 # or
 yarn dev
 ```
 
-Open [localhost:3001](http://localhost:3001) with your browser to see the result.
+Open [localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## References
 
