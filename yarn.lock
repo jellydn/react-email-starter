@@ -180,10 +180,10 @@
   dependencies:
     react "18.2.0"
 
-"@react-email/container@0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.6.tgz#b352850d6933f53b2c79d18b11dd30f19f8ee50b"
-  integrity sha512-5MCej5JQibS7FIY1zIdpO3T5dAZttaZDe9SdcqbNUlQLX0mIyvxMCc92kS553p0o198sTyHZ9zhwA8ULMEhh+Q==
+"@react-email/container@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.7.tgz#4790d21ab501c02b5cec63b28b74b6fc21cd07f2"
+  integrity sha512-EOrXGnNUQ6mILDMSXCW2ljqqCOOOmcVQqX6QY2eRB+kQR8iDtJN7BMUP58EHkfMsJzt2nnHgoh415eeHZYIa3w==
   dependencies:
     react "18.2.0"
 
@@ -246,10 +246,10 @@
     react "18.2.0"
     react-dom "18.2.0"
 
-"@react-email/section@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.1.tgz#5e12161fbb77a1b746caf4f35aab5905977c8474"
-  integrity sha512-Pb2HcGNhTOtFRJVB+Kq2vTUnd8M+LuZBuHfpUD16ua/m2/mbW5WeXAfSuJ2Tl6qspzvDKLHqVX+o6HBc1qgl2Q==
+"@react-email/section@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.8.tgz#fc2991f6bbdf3c7c3c5fcc45e444a55aa1b31da2"
+  integrity sha512-Y3HxwaNkh04UgLx4dsez3uRfFIm5WJMgJB+9zFyHreKa3QwCcm+XSYN2ObsSyCAqISScXNeukgu/z75+BwaJ+g==
   dependencies:
     react "18.2.0"
 
