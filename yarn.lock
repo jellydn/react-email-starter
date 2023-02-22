@@ -1325,10 +1325,10 @@ react-dom@18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-email@1.7.13:
-  version "1.7.13"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.7.13.tgz#2812fb49173e326bcb64bb0900e21fe1ebde8ade"
-  integrity sha512-jvne1O6hkHEqeh10gtHWFCNFSSF0mzioM2FJjXoUxkDOuO/KY24pX+b3S8eVGOGih44zWFUdrFEA4L4gM5ZDPA==
+react-email@1.7.14:
+  version "1.7.14"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.7.14.tgz#e1a2ce29b104c7293d5997d740cb3f582394e6dc"
+  integrity sha512-XupM9QTPSQNB0Qs0GEP1Dfkh1aTb4HPE5qaJ2bMvX+GM3P4xXtoSraxy3tNxhjouKBzNxdt5jCjlF6YsxrBZkA==
   dependencies:
     "@commander-js/extra-typings" "9.4.1"
     "@react-email/render" "0.0.6"
