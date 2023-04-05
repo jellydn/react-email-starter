@@ -302,10 +302,10 @@
     "@babel/runtime" "^7.13.10"
     "@radix-ui/react-compose-refs" "1.0.0"
 
-"@react-email/button@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.7.tgz#cb19f4d3eeff825ccd6b261f75819c7730076512"
-  integrity sha512-TMcy5p+XBArufjtmrYOkFFRtiVegrvz3BeynvvHlsvlJImDy6az2+NLvkuSghG0hgOs1t5otD0Bn2PBVZhx/wA==
+"@react-email/button@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.8.tgz#50c95b504617dd488a1f5cc449a4ed7b4c43a0da"
+  integrity sha512-EOIX/ewPgn/CXUvaAbR92jfWC8EXTSRBafpKtIbxchMcx/iIEG7/JqUndJdZ7BqgON1o6GLm3xP2+AtXtTZJkg==
   dependencies:
     react "18.2.0"
 
@@ -357,10 +357,10 @@
   dependencies:
     react "18.2.0"
 
-"@react-email/preview@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.5.tgz#17937c9ef738dc9cc1501c5706846652924213d4"
-  integrity sha512-3OwWQvuxqi8MdJ1PZHH6XLrG9N8Z3uAN9cVWOlqb4WuhR1KwTVPgZwSy/zuzTiuhhejpO8/ctC7tMfZSpXdThg==
+"@react-email/preview@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.6.tgz#89f1305e4ce151932b835bc77a3d9a6ea90222d7"
+  integrity sha512-mXDCc3NGpm/4W7gowBtjsTxYXowLNOLsJsYhIfrsjNJWGlVhVFB9uEHm55LjBLpxSG020g6/8LIrpJU6g22qvg==
   dependencies:
     react "18.2.0"
 
@@ -1460,10 +1460,10 @@ react-dom@18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-email@1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.9.0.tgz#a4769517bb85a6055bf8ad529277c9acec67dbe5"
-  integrity sha512-npOlsTtXuxBcqO/5BYv7V2dWg7d2pkElraR8rxYRRPgH/QY+JCkS8WwKkl3mSrliRv6LAQcIRG0CTYnH7YcCAQ==
+react-email@1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.9.1.tgz#3b38bba3d881e91ba27a1edd826e4f4a14a3d3e0"
+  integrity sha512-+gRvxDeFIYuXDDg5vM57kOf1KUDGwB38AM1BQzdI9tWUWw3qas3U+yC0yFuxH8nwCQfMUZ4FKN7BqACWo/KSnw==
   dependencies:
     "@commander-js/extra-typings" "9.4.1"
     "@manypkg/find-root" "2.1.0"
