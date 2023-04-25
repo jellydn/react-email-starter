@@ -1460,10 +1460,10 @@ react-dom@18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-email@1.9.1:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.9.1.tgz#3b38bba3d881e91ba27a1edd826e4f4a14a3d3e0"
-  integrity sha512-+gRvxDeFIYuXDDg5vM57kOf1KUDGwB38AM1BQzdI9tWUWw3qas3U+yC0yFuxH8nwCQfMUZ4FKN7BqACWo/KSnw==
+react-email@1.9.2:
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-1.9.2.tgz#10407d8e05c9e169303ab55ef398e1735adc1309"
+  integrity sha512-LstTUHrB+fmZgwYDMnDm28WL1+r5uQc4QBHcrZl+rhcZDbCsSC3nvWXhsu6itTlQ9560QeXGYEHapb6S5i22dA==
   dependencies:
     "@commander-js/extra-typings" "9.4.1"
     "@manypkg/find-root" "2.1.0"
