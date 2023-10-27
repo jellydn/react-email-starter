@@ -317,26 +317,20 @@
     "@babel/runtime" "^7.13.10"
     "@radix-ui/react-compose-refs" "1.0.1"
 
-"@react-email/button@0.0.10":
+"@react-email/button@0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.11.tgz#299d12e4595518d09611a93c57e8a360f4f2db97"
+  integrity sha512-mB5ySfZifwE5ybtIWwXGbmKk1uKkH4655gftL4+mMxZAZCkINVa2KXTi5pO+xZhMtJI9xtAsikOrOEU1gTDoww==
+
+"@react-email/container@0.0.10":
   version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.10.tgz#be453280f9c2f49660fbbcd9ea872d44ff1be523"
-  integrity sha512-S8r7NGTxXoxvw5kCdMzpwXdBHhYAhrYM9sylK6xr+2M9osrjHQOPLBoV3I/po9xdzN3WyRcZqQixH0wPeXy2Gw==
-  dependencies:
-    react "18.2.0"
+  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.10.tgz#1f9e883d77cb1b1cbd3cbbe271a545ed1ce622be"
+  integrity sha512-goishY7ocq+lord0043/LZK268bqvMFW/sxpUt/dSCPJyrrZZNCbpW2t8w8HztU38cYj0qGQLxO5Qvpn/RER3w==
 
-"@react-email/container@0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.8.tgz#a5442b217247d7fe6134dc63564094ffbaca7c12"
-  integrity sha512-MQZQxvTOoLWjJR+Jm689jltm0I/mtZbEaDnwZbNkkHKgccr++wwb9kOKMgXG777Y7tGa1JATAsZpvFYiCITwUg==
-  dependencies:
-    react "18.2.0"
-
-"@react-email/head@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/head/-/head-0.0.5.tgz#8f974d635d78e25cffee4554d349059b0829e952"
-  integrity sha512-s84OxJxZMee2z5b1a+RVwY1NOSUNNf1ecjPf6n64aZmMNcNUyn4gOl7RO6xbfBrZko7TigBwsFB1Cgjxtn/ydg==
-  dependencies:
-    react "18.2.0"
+"@react-email/head@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/head/-/head-0.0.6.tgz#7b6ef34675ab530e1e099c42b7cd2f3379c05689"
+  integrity sha512-9BrBDalb34nBOmmQVQc7/pjJotcuAeC3rhBl4G88Ohiipuv15vPIKqwy8vPJcFNi4l7yGlitfG3EESIjkLkoIw==
 
 "@react-email/heading@0.0.9":
   version "0.0.9"
@@ -346,38 +340,30 @@
     "@radix-ui/react-slot" "1.0.2"
     react "18.2.0"
 
-"@react-email/hr@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/hr/-/hr-0.0.5.tgz#5f9f150ef62e8967fb49e022090375fdc25699d3"
-  integrity sha512-nwB8GmSdvPlR/bWjDS07yHtgdfJqtvCaPXee3SVUY69YYP7NeDO/VACJlgrS9V2l79bj1lUpH0MJMU6MNAk5FQ==
-  dependencies:
-    react "18.2.0"
-
-"@react-email/html@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.4.tgz#3de13cad8c1f4c487227b3f8fd79e790d239d8c0"
-  integrity sha512-7tRYSnudYAWez+NkPWOM8yLZH7EuYFtYdiLPnzpD+pf4cdk16Gz4up531DaIX6dNBbfbyEFpQxhXZxGeJ5ZkfQ==
-
-"@react-email/img@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.5.tgz#d7f8c7ce516293c0701d4545bbd48bded94ef710"
-  integrity sha512-9ziFgBfrIAL+DpVlsraFcd2KwsTRyobLpqTnoiBYCcVZGod59xbYkmsmB3CbUosmLwPYg6AeD7Q7e+hCiwkWgg==
-  dependencies:
-    react "18.2.0"
-
-"@react-email/link@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.5.tgz#9c46bf51919f168f31d747a8e11159ec07f71e6e"
-  integrity sha512-z+QW9f4gXBdyfhl7iYMY3td+rXKeZYK/2AGElEMsxVoywn5D0b6cF8m5w2jbf0U2V3enT+zy9yc1R6AyT59NOg==
-  dependencies:
-    react "18.2.0"
-
-"@react-email/preview@0.0.6":
+"@react-email/hr@0.0.6":
   version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.6.tgz#89f1305e4ce151932b835bc77a3d9a6ea90222d7"
-  integrity sha512-mXDCc3NGpm/4W7gowBtjsTxYXowLNOLsJsYhIfrsjNJWGlVhVFB9uEHm55LjBLpxSG020g6/8LIrpJU6g22qvg==
-  dependencies:
-    react "18.2.0"
+  resolved "https://registry.yarnpkg.com/@react-email/hr/-/hr-0.0.6.tgz#f5bd575e7607cecc0cabc61f0ab50644a7e1aac0"
+  integrity sha512-W+wINBz7z7BRv3i9GS+QoJBae1PESNhv6ZY6eLnEpqtBI/2++suuRNJOU/KpZzE6pykeTp6I/Z7UcL0LEYKgyg==
+
+"@react-email/html@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.6.tgz#a54b51849b21ec131c491b16f7695867bbe7ac81"
+  integrity sha512-8Fo20VOqxqc087gGEPjT8uos06fTXIC8NSoiJxpiwAkwiKtQnQH/jOdoLv6XaWh5Zt2clj1uokaoklnaM5rY1w==
+
+"@react-email/img@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.6.tgz#d1e7edf3a8a74c80e7148d0bfef0bb32cc3cee9f"
+  integrity sha512-Wd7xKI3b1Jvb2ZEHyVpJ9D98u0GHrRl+578b8LV24PavM/65V61Q5LN5Fr9sAhj+4VGqnHDIVeXIYEzVbWaa3Q==
+
+"@react-email/link@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.6.tgz#f1c611cf7c4e08a05d5ae0291f8644510923a7a9"
+  integrity sha512-bYYHroWGS//nDl9yhh8V6K2BrNwAsyX7N/XClSCRku3x56NrZ6D0nBKWewYDPlJ9rW9TIaJm1jDYtO9XBzLlkQ==
+
+"@react-email/preview@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.7.tgz#8d1c9fd27ba45f0449ef6e35484c94da5a6a0de5"
+  integrity sha512-YLfIwHdexPi8IgP1pSuVXdAmKzMQ8ctCCLEjkMttT2vkSFqT6m/e6UFWK2l30rKm2dDsLvQyEvo923mPXjnNzg==
 
 "@react-email/render@0.0.6":
   version "0.0.6"
@@ -389,19 +375,15 @@
     react "18.2.0"
     react-dom "18.2.0"
 
-"@react-email/section@0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.9.tgz#77151d94d2ee883e8ade4c48c218313ba972fb94"
-  integrity sha512-3EbcWJ1jUZrzquWSvXrv8Hbk9V+BGvLcMWQIli4NdIpQlddmlGKUYfXU2mB2d2pf+5ojqkGcFZZ9fWxycB84jQ==
-  dependencies:
-    react "18.2.0"
+"@react-email/section@0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.10.tgz#69e0d9956f74a804ad6c5077b7a26e1e8c07edcc"
+  integrity sha512-x9B2KYFqj+d8I1fK9bgeVm/3mLE4Qgn4mm/GbDtcJeSzKU/G7bTb7/3+BMDk9SARPGkg5XAuZm1XgcqQQutt2A==
 
-"@react-email/text@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.0.5.tgz#99a2e04a709f59f6b742588aad6fc93ed349cfce"
-  integrity sha512-LXhHiaC6oRRsNAfOzJDos4wQA22eIdVJvR6G7uu4QzUvYNOAatDMf89jRQcKGrxX7InkS640v8sHd9jl5ztM5w==
-  dependencies:
-    react "18.2.0"
+"@react-email/text@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.0.6.tgz#c28a2b70f3e17de8e93e3fbdf9a18afff3623a29"
+  integrity sha512-PDUTAD1PjlzXFOIUrR1zuV2xxguL62yne5YLcn1k+u/dVUyzn6iU/5lFShxCfzuh3QDWCf4+JRNnXN9rmV6jzw==
 
 "@selderee/plugin-htmlparser2@^0.10.0":
   version "0.10.0"
