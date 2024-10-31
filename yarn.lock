@@ -703,10 +703,10 @@
   resolved "https://registry.yarnpkg.com/@radix-ui/rect/-/rect-1.1.0.tgz#f817d1d3265ac5415dadc67edab30ae196696438"
   integrity sha512-A9+lCBZoaMJlVKcRBz2YByCG+Cp2t6nAnMnNba+XiWxnj6r4JUFqfsgwocMBZU9LPtdxC6wB56ySYpc7LQIoJg==
 
-"@react-email/button@0.0.17":
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.17.tgz#42f898073512edd29ca6ffe4c400eca106a4d2c3"
-  integrity sha512-ioHdsk+BpGS/PqjU6JS7tUrVy9yvbUx92Z+Cem2+MbYp55oEwQ9VHf7u4f5NoM0gdhfKSehBwRdYlHt/frEMcg==
+"@react-email/button@0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.18.tgz#4d580750cd956fd37bb201a3c77d4a4c5b649c92"
+  integrity sha512-uNUnpeDzz1o9HAky47JSTsUN/Ih0A3Az165AAOgAy8XOVzQJPrltUBRzHkScSVJTwRqKLASkie1yZbtNGIcRdA==
 
 "@react-email/container@0.0.14":
   version "0.0.14"
@@ -738,20 +738,20 @@
   resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.10.tgz#4d237dd269e25a269786510db81fb2be2409a0bc"
   integrity sha512-pJ8glJjDNaJ53qoM95pvX9SK05yh0bNQY/oyBKmxlBDdUII6ixuMc3SCwYXPMl+tgkQUyDgwEBpSTrLAnjL3hA==
 
-"@react-email/link@0.0.10":
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.10.tgz#5f983f0f95a195da4ef06ba53671b5edad8d0ab7"
-  integrity sha512-tva3wvAWSR10lMJa9fVA09yRn7pbEki0ZZpHE6GD1jKbFhmzt38VgLO9B797/prqoDZdAr4rVK7LJFcdPx3GwA==
+"@react-email/link@0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.11.tgz#0bddeb364ef15d185ce6d3da4dd7c0f0139e0137"
+  integrity sha512-o1/BgPn2Fi+bN4Nh+P64t4tulaOyPhkBNSpNmiYL1Ar+ilw8q0BmUAqM+lvHy8Qr/4K7BjkgFoc4GoYkoEjOig==
 
 "@react-email/preview@0.0.11":
   version "0.0.11"
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.11.tgz#bf25a24608817ba00f1fbc8f2f02e2423078105c"
   integrity sha512-7O/CT4b16YlSGrj18htTPx3Vbhu2suCGv/cSe5c+fuSrIM/nMiBSZ3Js16Vj0XJbAmmmlVmYFZw9L20wXJ+LjQ==
 
-"@react-email/section@0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.14.tgz#50585fe7d63da03b56c30cebbd8e9908a3256f0a"
-  integrity sha512-+fYWLb4tPU1A/+GE5J1+SEMA7/wR3V30lQ+OR9t2kAJqNrARDbMx0bLnYnR1QL5TiFRz0pCF05SQUobk6gHEDQ==
+"@react-email/section@0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.15.tgz#6092381d6a759efbc9c40a121239e559b2f81c0e"
+  integrity sha512-xfM3Qy5eU7fbkwvktlTeQgad7uo+1Z7YVh1aowSZaRBvKbkEXgoH/XssRYQmQL8ZrZGXbEJMujwtf4fsQL6vrg==
 
 "@react-email/text@0.0.10":
   version "0.0.10"
