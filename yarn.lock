@@ -978,10 +978,10 @@ postcss@8.4.31:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
-react-email@4.0.15:
-  version "4.0.15"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.15.tgz#94632b2e54abb10c2d70562d90179566ad230dda"
-  integrity sha512-UQR18Toi3TAasqcZal69rYZ9RiIKRvHRW69tN6k7hONJpEPeiC4uBtDwH5VxpllW591D+NOdpBF/V1pTansaKg==
+react-email@4.0.16:
+  version "4.0.16"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.16.tgz#8ef56d556e317023c10fd28ff55a130ba31d258e"
+  integrity sha512-auhFU+nQxAkKkP6lQhPyGsa9exwfUEzp2BwZnjHokCwphZlg30tu4t1LgdKRwGPYsi7XNGy6asbVLAUhOVpzzg==
   dependencies:
     "@babel/parser" "^7.27.0"
     "@babel/traverse" "^7.27.0"
