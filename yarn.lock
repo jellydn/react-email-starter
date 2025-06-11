@@ -463,10 +463,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.16.tgz#34214e6367d8c1b725b38a8b89391cd38f076a81"
   integrity sha512-FjqF9xQ8FoeUZYKSdt8sMIKvoT9XF8BrzhT3xiFKdEMwYNbsDflcjfErJe3jb7Wj/es/lKTbV5QR1dnLzGpL3w==
 
-"@react-email/text@0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.4.tgz#2d6a2f68844ee14d4427a613eac95e6115ed0cc8"
-  integrity sha512-cMNE02y8172DocpNGh97uV5HSTawaS4CKG/zOku8Pu+m6ehBKbAjgtQZDIxhgstw8+TWraFB8ltS1DPjfG8nLA==
+"@react-email/text@0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.5.tgz#cbfd6a8b32f789c7d70de6a3f4ab7bc8b2825a7e"
+  integrity sha512-o5PNHFSE085VMXayxH+SJ1LSOtGsTv+RpNKnTiJDrJUwoBu77G3PlKOsZZQHCNyD28WsQpl9v2WcJLbQudqwPg==
 
 "@socket.io/component-emitter@~3.1.0":
   version "3.1.2"
