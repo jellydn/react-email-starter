@@ -7,7 +7,7 @@
     "export": "email export"
   },
   "dependencies": {
-    "@react-email/button": "0.0.19",
+    "@react-email/button": "0.1.0",
     "@react-email/container": "0.0.15",
     "@react-email/head": "0.0.12",
     "@react-email/heading": "0.0.15",

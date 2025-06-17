@@ -425,10 +425,10 @@
   resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.3.3.tgz#c0e33e069d7922dd0546cac77a0247ad81d4a1aa"
   integrity sha512-4QZG6F8enl9/S2+yIiOiju0iCTFd93d8VC1q9LZS4p/Xuk81W2QDjCFeoogmrWWkAD59z8ZxepBQap2dKS5ruw==
 
-"@react-email/button@0.0.19":
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.19.tgz#f7585fd560f59be661c6ccdc3211df8b17f9fc86"
-  integrity sha512-HYHrhyVGt7rdM/ls6FuuD6XE7fa7bjZTJqB2byn6/oGsfiEZaogY77OtoLL/mrQHjHjZiJadtAMSik9XLcm7+A==
+"@react-email/button@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.1.0.tgz#a9543cb4f4a623417c175fa79593377676b10447"
+  integrity sha512-fg4LtgTu5zXxaRSly9cuv6sHVF/hi1lElbRaIA8EPx5coWOBhCto6rCPfawcXpaN2oER7rNHUrcNBkI+lz5F9A==
 
 "@react-email/container@0.0.15":
   version "0.0.15"
