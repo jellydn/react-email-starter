@@ -786,10 +786,10 @@ prompts@2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-react-email@4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.3.1.tgz#d133bb90be7feb358cb9351b2ea8fd30fb679c6f"
-  integrity sha512-GBgI7fl0fXVFVQ4zlXG+x14egDNX1WVlOrAXKMyc1h9xeTnIAt/u3g1liU4v+7Yv3yprMSkZ1mIO3YPuTKo77A==
+react-email@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.3.2.tgz#18797561f5bb02358cf1cfa6225fcfa307d7acb5"
+  integrity sha512-WaZcnv9OAIRULY236zDRdk+8r511ooJGH5UOb7FnVsV33hGPI+l5aIZ6drVjXi4QrlLTmLm8PsYvmXRSv31MPA==
   dependencies:
     "@babel/parser" "^7.27.0"
     "@babel/traverse" "^7.27.0"
