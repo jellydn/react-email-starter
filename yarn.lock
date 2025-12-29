@@ -254,60 +254,60 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@react-email/button@0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.2.0.tgz#738d5b9d79fa5008c9ce8efa8e1e277c5b60061c"
-  integrity sha512-8i+v6cMxr2emz4ihCrRiYJPp2/sdYsNNsBzXStlcA+/B9Umpm5Jj3WJKYpgTPM+aeyiqlG/MMI1AucnBm4f1oQ==
+"@react-email/button@0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.2.1.tgz#e41581e73b54a3fda0ca3b14fcf41d181aa3052c"
+  integrity sha512-qXyj7RZLE7POy9BMKSoqQ00tOXThjOZSUnI2Yu9i29IHngPlmrNayIWBoVKtElES7OWwypUcpiajwi1mUWx6/A==
 
-"@react-email/container@0.0.15":
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.15.tgz#6a35f0792cfd4b1ec557c7d566cdc2ecbdeb6d01"
-  integrity sha512-Qo2IQo0ru2kZq47REmHW3iXjAQaKu4tpeq/M8m1zHIVwKduL2vYOBQWbC2oDnMtWPmkBjej6XxgtZByxM6cCFg==
-
-"@react-email/head@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@react-email/head/-/head-0.0.12.tgz#83c1beba4e0e5207aa6f7ae9601f8cbdbda23d13"
-  integrity sha512-X2Ii6dDFMF+D4niNwMAHbTkeCjlYYnMsd7edXOsi0JByxt9wNyZ9EnhFiBoQdqkE+SMDcu8TlNNttMrf5sJeMA==
-
-"@react-email/heading@0.0.15":
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/@react-email/heading/-/heading-0.0.15.tgz#c6dd807ae684cbc37402fdd23dbd5500e245b531"
-  integrity sha512-xF2GqsvBrp/HbRHWEfOgSfRFX+Q8I5KBEIG5+Lv3Vb2R/NYr0s8A5JhHHGf2pWBMJdbP4B2WHgj/VUrhy8dkIg==
-
-"@react-email/hr@0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@react-email/hr/-/hr-0.0.11.tgz#bce7748f5c1b9558429e733e5a239b09d06b77db"
-  integrity sha512-S1gZHVhwOsd1Iad5IFhpfICwNPMGPJidG/Uysy1AwmspyoAP5a4Iw3OWEpINFdgh9MHladbxcLKO2AJO+cA9Lw==
-
-"@react-email/html@0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.11.tgz#10557538436cb098819b8c7a0d1da9ddd8aaf4d8"
-  integrity sha512-qJhbOQy5VW5qzU74AimjAR9FRFQfrMa7dn4gkEXKMB/S9xZN8e1yC1uA9C15jkXI/PzmJ0muDIWmFwatm5/+VA==
-
-"@react-email/img@0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.11.tgz#ee2c9d6b2c61e8e9537a00b6d5f3d51428410f85"
-  integrity sha512-aGc8Y6U5C3igoMaqAJKsCpkbm1XjguQ09Acd+YcTKwjnC2+0w3yGUJkjWB2vTx4tN8dCqQCXO8FmdJpMfOA9EQ==
-
-"@react-email/link@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.12.tgz#3b65e50af546e2539d9bfbb8442c7bdad7007235"
-  integrity sha512-vF+xxQk2fGS1CN7UPQDbzvcBGfffr+GjTPNiWM38fhBfsLv6A/YUfaqxWlmL7zLzVmo0K2cvvV9wxlSyNba1aQ==
-
-"@react-email/preview@0.0.13":
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.13.tgz#b68365d26a2772910d7a19345fa109819b167606"
-  integrity sha512-F7j9FJ0JN/A4d7yr+aw28p4uX7VLWs7hTHtLo7WRyw4G+Lit6Zucq4UWKRxJC8lpsUdzVmG7aBJnKOT+urqs/w==
-
-"@react-email/section@0.0.16":
+"@react-email/container@0.0.16":
   version "0.0.16"
-  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.16.tgz#34214e6367d8c1b725b38a8b89391cd38f076a81"
-  integrity sha512-FjqF9xQ8FoeUZYKSdt8sMIKvoT9XF8BrzhT3xiFKdEMwYNbsDflcjfErJe3jb7Wj/es/lKTbV5QR1dnLzGpL3w==
+  resolved "https://registry.yarnpkg.com/@react-email/container/-/container-0.0.16.tgz#a2426e9d26b9cfc4f77f531091a6b68125cf01f1"
+  integrity sha512-QWBB56RkkU0AJ9h+qy33gfT5iuZknPC7Un/IjZv9B0QmMIK+WWacc0cH6y2SV5Cv/b99hU94fjEMOOO4enpkbQ==
 
-"@react-email/text@0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.5.tgz#cbfd6a8b32f789c7d70de6a3f4ab7bc8b2825a7e"
-  integrity sha512-o5PNHFSE085VMXayxH+SJ1LSOtGsTv+RpNKnTiJDrJUwoBu77G3PlKOsZZQHCNyD28WsQpl9v2WcJLbQudqwPg==
+"@react-email/head@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@react-email/head/-/head-0.0.13.tgz#bccbde95629901a8b9fabb0714c5de0225d77a52"
+  integrity sha512-AJg6le/08Gz4tm+6MtKXqtNNyKHzmooOCdmtqmWxD7FxoAdU1eVcizhtQ0gcnVaY6ethEyE/hnEzQxt1zu5Kog==
+
+"@react-email/heading@0.0.16":
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/@react-email/heading/-/heading-0.0.16.tgz#4d1e4136a1826fa64ead589685c4ba6291dcfb88"
+  integrity sha512-jmsKnQm1ykpBzw4hCYHwBkt5pW2jScXffPeEH5ZRF5tZeF5b1pvlFTO9han7C0pCkZYo1kEvWiRtx69yfCIwuw==
+
+"@react-email/hr@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@react-email/hr/-/hr-0.0.12.tgz#a3b43a83f038a71dbca0111e076c2f29de434bf2"
+  integrity sha512-TwmOmBDibavUQpXBxpmZYi2Iks/yeZOzFYh+di9EltMSnEabH8dMZXrl+pxNXzCgZ2XE8HY7VmUL65Lenfu5PA==
+
+"@react-email/html@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@react-email/html/-/html-0.0.12.tgz#a0cbc790ad0c46edd47c7ceebaf6568cda6f568d"
+  integrity sha512-KTShZesan+UsreU7PDUV90afrZwU5TLwYlALuCSU0OT+/U8lULNNbAUekg+tGwCnOfIKYtpDPKkAMRdYlqUznw==
+
+"@react-email/img@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@react-email/img/-/img-0.0.12.tgz#8fa5c3ad8e330b8d1b23fd9d7f45ed1e8aa97fa6"
+  integrity sha512-sRCpEARNVTf3FQhZOC+JTvu5r6ubiYWkT0ucYXg8ctkyi4G8QG+jgYPiNUqVeTLA2STOfmPM/nrk1nb84y6CPQ==
+
+"@react-email/link@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@react-email/link/-/link-0.0.13.tgz#a0c5b053b3a608d5bf82c34374e08cebb64812d7"
+  integrity sha512-lkWc/NjOcefRZMkQoSDDbuKBEBDES9aXnFEOuPH845wD3TxPwh+QTf0fStuzjoRLUZWpHnio4z7qGGRYusn/sw==
+
+"@react-email/preview@0.0.14":
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.14.tgz#da8ead3822c2cd27b349790419a86cfdf7d06070"
+  integrity sha512-aYK8q0IPkBXyMsbpMXgxazwHxYJxTrXrV95GFuu2HbEiIToMwSyUgb8HDFYwPqqfV03/jbwqlsXmFxsOd+VNaw==
+
+"@react-email/section@0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.17.tgz#0ac9c65b24a7b17c042d75a9ff03b36a4296a8e7"
+  integrity sha512-qNl65ye3W0Rd5udhdORzTV9ezjb+GFqQQSae03NDzXtmJq6sqVXNWNiVolAjvJNypim+zGXmv6J9TcV5aNtE/w==
+
+"@react-email/text@0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.6.tgz#29fc7b130900cd192211e198066616aa210dd78d"
+  integrity sha512-TYqkioRS45wTR5il3dYk/SbUjjEdhSwh9BtRNB99qNH1pXAwA45H7rAuxehiu8iJQJH0IyIr+6n62gBz9ezmsw==
 
 "@socket.io/component-emitter@~3.1.0":
   version "3.1.2"
