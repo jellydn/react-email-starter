@@ -282,10 +282,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.14.tgz#da8ead3822c2cd27b349790419a86cfdf7d06070"
   integrity sha512-aYK8q0IPkBXyMsbpMXgxazwHxYJxTrXrV95GFuu2HbEiIToMwSyUgb8HDFYwPqqfV03/jbwqlsXmFxsOd+VNaw==
 
-"@react-email/render@>=2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-2.1.0.tgz#de0030083dbfc7b73adc34d7e1b539f10d79400c"
-  integrity sha512-F+zE3O6d6sW6Aj2UjvZAA17R7tJKM7kcq2mgV6k4HCT8jeLLFaVP2txMtH1lgqYFRMZ0Gxsd37q2PRyiXLXXxA==
+"@react-email/render@>=2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-2.1.1.tgz#2ffd07e9336195f9680e095229845d43e48691f6"
+  integrity sha512-DvVx4k6XjJ9cYBigd37+7SK2E89emUH32Lcn6COsMickQchXdvXa+ZA04BF7475Kg+8ikaIpus+zQYUwVVyjBg==
   dependencies:
     entities "^4.5.0"
     html-to-text "^9.0.5"
@@ -799,14 +799,14 @@ prompts@2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-react-email@6.11.2:
-  version "6.11.2"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.2.tgz#2ab4faddf2ccd25b570b1b04ab99b775928855d4"
-  integrity sha512-iQmTWm+FzBPHJLoS360vDeqVh2JDGFfP4UWolxqtqfuLE3NjDbDR78heyrKkKAr1ljxy2LBY/wNaZKIFnhNWfQ==
+react-email@6.11.3:
+  version "6.11.3"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.3.tgz#4f3dc40f5ab52617400f8a11613d4e0911b4287d"
+  integrity sha512-BVwyLQjyfHJ9DNLKCcddO8qeURZFONJv3jF+gf490tVx+VAKy6Qbc3d2BESvYMe51Un7G59kzRd0W55+vXIfmg==
   dependencies:
     "@babel/parser" "7.29.2"
     "@babel/traverse" "7.29.0"
-    "@react-email/render" ">=2.1.0"
+    "@react-email/render" ">=2.1.1"
     chokidar "^5.0.0"
     commander "^13.0.0"
     conf "^15.0.2"
