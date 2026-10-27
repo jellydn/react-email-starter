@@ -726,11 +726,6 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-normalize-path@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
-  integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
-
 nypm@0.6.6:
   version "0.6.6"
   resolved "https://registry.yarnpkg.com/nypm/-/nypm-0.6.6.tgz#431ee4560126ebaa377376f0e168640336ee8920"
@@ -799,10 +794,10 @@ prompts@2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-react-email@6.11.3:
-  version "6.11.3"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.3.tgz#4f3dc40f5ab52617400f8a11613d4e0911b4287d"
-  integrity sha512-BVwyLQjyfHJ9DNLKCcddO8qeURZFONJv3jF+gf490tVx+VAKy6Qbc3d2BESvYMe51Un7G59kzRd0W55+vXIfmg==
+react-email@6.11.4:
+  version "6.11.4"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.4.tgz#1bcafd8a722d29b0e46c0419431357e5ffeadd97"
+  integrity sha512-Od9+VFpt5nMyYA84Q1ZiEdiwrSSZbjwYplUrAr8fZS5rnpg7tn+mfvhmndXINEIow+FdKtP8tZOMHwDZisezSw==
   dependencies:
     "@babel/parser" "7.29.2"
     "@babel/traverse" "7.29.0"
@@ -818,7 +813,6 @@ react-email@6.11.3:
     log-symbols "^7.0.0"
     marked "^15.0.12"
     mime-types "^3.0.0"
-    normalize-path "^3.0.0"
     nypm "0.6.6"
     picospinner "^3.0.0"
     prismjs "^1.30.0"
