@@ -287,10 +287,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.14.tgz#da8ead3822c2cd27b349790419a86cfdf7d06070"
   integrity sha512-aYK8q0IPkBXyMsbpMXgxazwHxYJxTrXrV95GFuu2HbEiIToMwSyUgb8HDFYwPqqfV03/jbwqlsXmFxsOd+VNaw==
 
-"@react-email/render@>=2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-2.3.0.tgz#5e4088c0ceb1df58d1d4e434df14f2fe15a92b1f"
-  integrity sha512-JmvK+X/VIh0EpruB/iYB5nmnlY6AniMUDPhEOvKP5llEHweOfo/cIy24gdrh6RnpMjJfoGv7xNpMs8+lC3gIwA==
+"@react-email/render@>=2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-2.3.1.tgz#42c3561eb41e61595e838000e47ddc7d5438f99e"
+  integrity sha512-suLxph30AiKy40PPSLQvpZIoQAz5wZ9Vucj+3XlAS1GWWa//TAqysqaa7rorKWNw18I7UxqvjCOj/TFPJeF6nA==
   dependencies:
     entities "^4.5.0"
     html-to-text "^10.0.1"
@@ -445,11 +445,6 @@ debounce-fn@^6.0.0:
   integrity sha512-rBMW+F2TXryBwB54Q0d8drNEI+TfoS9JpNTAoVpukbWEhjXQq4rySFYLaqXMFXwdv61Zb2OHtj5bviSoimqxRQ==
   dependencies:
     mimic-function "^5.0.0"
-
-debounce@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/debounce/-/debounce-2.2.0.tgz#f895fa2fbdb579a0f0d3dcf5dde19657e50eaad5"
-  integrity sha512-Xks6RUDLZFdz8LIdR6q0MTH44k7FikOmnh5xkSjMig6ch45afc8sjTjRQf3P6ax8dMgcQrYO/AR2RGWURrruqw==
 
 debug@^4.3.1, debug@~4.4.1:
   version "4.4.3"
@@ -805,19 +800,18 @@ prompts@2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-react-email@6.11.10:
-  version "6.11.10"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.10.tgz#8a45f38825e4e784df50cbd47b021ce80a8e092a"
-  integrity sha512-v10bjJRibHZrzyB4vVvreGMBcUb/fMIfCrMW7TgY4A7prbdbJ5G0eFRgBWdZDks2Jd6fyJCKQ0aAMcfMeVeDcA==
+react-email@6.11.11:
+  version "6.11.11"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.11.tgz#afc8d16e7268be1f558ef51a76a9fe6670ba3a81"
+  integrity sha512-yAd5nzXIKk2i5F18kFOtgYm91p+y2W8TJPV5W8Sn4ODFp2asHsRmxc2lSPyX7/Qk48W9mCue9iAJnCWws5vuaA==
   dependencies:
     "@babel/parser" "7.29.2"
     "@babel/traverse" "7.29.0"
-    "@react-email/render" ">=2.3.0"
+    "@react-email/render" ">=2.3.1"
     chokidar "^5.0.0"
     commander "^13.0.0"
     conf "^15.0.2"
     css-tree "3.2.1"
-    debounce "^2.0.0"
     esbuild "^0.28.0"
     glob "^14.0.3"
     jiti "2.6.1"
