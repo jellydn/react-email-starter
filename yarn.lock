@@ -748,10 +748,10 @@ prompts@2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-react-email@6.11.16:
-  version "6.11.16"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.16.tgz#04922d0c955d3805477c8dfdf5cc03a185b17d72"
-  integrity sha512-/d0gipOg2mB4IOqM46SfcQIZsJP2rumyxZWREOB8hKcyLAFDSlurCyvfWKVA85JaMUZECVFTN/U0UdqUAIBgXQ==
+react-email@6.11.17:
+  version "6.11.17"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-6.11.17.tgz#bc4cd30d2c6d0b6d150cc447e18749f6057b66b2"
+  integrity sha512-TyJbBJkedfUFT21qQ5OvRtYEKIyuJnFxDkqAR3GwHxJ1VtKIux09riysUIOxqixZxgFoM0v0hefAJMsNvIn9mg==
   dependencies:
     "@babel/parser" "7.29.2"
     "@babel/traverse" "7.29.0"
